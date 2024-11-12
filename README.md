@@ -2,8 +2,8 @@
 
 ## Environments
 
-- Preview: https://main--nissanleaf--sherest.hlx.page/
-- Live: https://main--nissanleaf--sherest.hlx.live/
+- Preview: https://main--satoshii-wknd-12112024-15336--svfranklindemo.aem.page/en/
+- Live: https://main--satoshii-wknd-12112024-15336--svfranklindemo.aem.live/en/
 
 ## Installation
 
